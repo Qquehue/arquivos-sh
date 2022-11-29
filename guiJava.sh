@@ -1,7 +1,6 @@
 #!/bin/bash
 cd /home/ubuntu
 git clone https://github.com/Qquehue/Console-Tech-Consulting.git
-
 #appInit(){
 #cd /home/ubuntu/Desktop/Web.App/Console-Tech-Consulting/API/local-app/target
 #java -jar local-app-1.0-SNAPSHOT-jar-with-dependencies.jar
